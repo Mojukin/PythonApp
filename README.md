@@ -1,1 +1,1 @@
-# PythonApp
+Python приложения
